@@ -1,3 +1,3 @@
 print("What's app Buddy")
-Print("Welcome to the Word of Jenkins")
-Print("This Page is developed by BVNCHARY")
+print("Welcome to the Word of Jenkins")
+print("This Page is developed by BVNCHARY")
